@@ -117,4 +117,4 @@ python bot.py
 
 ## Ссылки
 Ссылка на нейронную сеть: https://github.com/DaniilKostashchuk/Classification_of_images_of_minerals_and_rock_cuts<p>
-Ссылка на конвертацию PyTorch модели в ONNX формат: https://github.com/DaniilKostashchuk/Converting_the_Pwtorch_model_to_ONNX_format/blob/main/README.md
+Ссылка на конвертацию PyTorch модели в ONNX формат: https://github.com/DaniilKostashchuk/Converting_the_Pwtorch_model_to_ONNX_format
