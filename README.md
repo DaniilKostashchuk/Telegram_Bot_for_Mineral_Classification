@@ -23,7 +23,7 @@ def __init__(self):
     self.section_model = ort.InferenceSession('efficientnet_sections.onnx')
     
     # Классы классификации
-    self.mineral_classes = ['биотит', 'борнит', 'хризоколла', ...]
+    self.mineral_classes = ['biotite', 'bornite', 'chrysocolla', ...]
     self.section_classes = ['Базальтоиды', 'Гранитоиды']
     
     # Настройка бота Telegram
